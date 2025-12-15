@@ -1,5 +1,12 @@
 # SmartDine
 
+## 🚀 Live Deployment
+
+**Frontend (Vercel):** [https://smart-dine-frontend-omega.vercel.app/](https://smart-dine-frontend-omega.vercel.app/)  
+**Backend (Render):** Deployed on Render
+
+---
+
 SmartDine is an intelligent, AI-powered restaurant recommendation and social dining application. It combines natural language processing with geolocation services to help users find the perfect place to eat based on their mood, cravings, and location, while connecting them with friends for a shared dining experience.
 
 ## Project Structure
@@ -100,6 +107,8 @@ The frontend can be deployed to static hosting services like **Vercel**, **Netli
 
 ### Backend
 The backend can be deployed to Node.js hosting providers like **Render**, **Railway**, or **Heroku**. Make sure to set the `NODE_ENV` to production and configure the environment variables on the server.
+
+deployement link --->  https://smart-dine-frontend-omega.vercel.app/
 
 ---
 
