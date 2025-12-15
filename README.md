@@ -5,6 +5,9 @@
 **Frontend (Vercel):** [https://smart-dine-frontend-omega.vercel.app/](https://smart-dine-frontend-omega.vercel.app/)  
 **Backend (Render):** Deployed on Render
 
+> [!NOTE]
+> **First Load Delay**: The backend is hosted on Render's free tier, which goes to sleep after 15 minutes of inactivity. The first request after inactivity may take **30-60 seconds** to wake up the server and load the database. Subsequent requests will be fast. Please be patient on your first visit!
+
 ---
 
 SmartDine is an intelligent, AI-powered restaurant recommendation and social dining application. It combines natural language processing with geolocation services to help users find the perfect place to eat based on their mood, cravings, and location, while connecting them with friends for a shared dining experience.
